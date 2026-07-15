@@ -4,8 +4,8 @@ End-to-end Data Analytics project using **Python, PostgreSQL and Power BI**.
 
 The project transforms raw e-commerce transactional data into a dimensional model for business intelligence, including data cleaning, ETL, SQL analysis and interactive dashboards.
 
-![Dashboard - Executive Overview](images/executive overview dashboard p1.png)
-![Dashboard - Customer & Product Analysis](images/customer and product analysis dashboard p2.png)
+![Dashboard - Executive Overview](images/dashboard_page1.png)
+![Dashboard - Customer & Product Analysis](images/dashboard_page2.png)
 
 
 ---
@@ -167,7 +167,7 @@ The Power BI dashboard contains two pages.
 - Revenue by State
 - Top Sellers
 
-![Dashboard - Executive Overview](images/executive overview dashboard p1.png)
+![Dashboard - Executive Overview](images/dashboard_page1.png)
 
 
 ### Customer & Product Analysis
@@ -178,7 +178,7 @@ The Power BI dashboard contains two pages.
 - Revenue by Category
 - Cancellation Rate by Category
 
-![Dashboard - Customer & Product Analysis](images/customer and product analysis dashboard p2.png)
+![Dashboard - Customer & Product Analysis](images/dashboard_page2.png)
 
 
 ---
